@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  
+# Skills
 
-<!--
-**gfyAhhDevBoy/gfyAhhDevBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<b>Main Skills (Learning)<b>
+  ---
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/csharp.png)
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/html.png)
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/css.png)
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/js.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+
+<b>Good<b>
+  ---
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/cpp.png)
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/monogame.png)
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/unity.png)
+
+</br>
+
+<b>Basics<b>
+  ---
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/java.png)
+
+</p>
