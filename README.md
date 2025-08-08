@@ -6,22 +6,15 @@
 
 <b>Main focus<b>
   ---
-![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/csharp.png)
-![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/monogame.png)
-![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/unity.png)
-
-</br>
-
-
-<b>Good<b>
-  ---
-
 ![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/cpp.png)
 
 </br>
 
-<b>Basics<b>
+<b>Other Skills<b>
   ---
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/monogame.png)
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/unity.png)
+![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/csharp.png)
 ![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/java.png)
 ![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/html.png)
 ![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/css.png)
