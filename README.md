@@ -4,7 +4,7 @@
 
 </br>
 
-<b>Main focus<b>
+<b>Main Skills<b>
   ---
 
 ![](https://github.com/gfyAhhDevBoy/gfyAhhDevBoy/blob/main/html.png)
